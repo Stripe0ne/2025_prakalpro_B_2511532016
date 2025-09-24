@@ -2,7 +2,7 @@ package pekan3;
 import java.util.Scanner;
 //Menghitung volume dari suatu bola
 
-public class TugasPekan3 {
+public class hitungvolume {
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
 		
@@ -17,3 +17,4 @@ public class TugasPekan3 {
 		
 	}
 }
+
